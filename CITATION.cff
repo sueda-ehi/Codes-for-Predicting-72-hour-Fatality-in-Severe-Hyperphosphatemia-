@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "Cited as"
+authors:
+- family-names: Sueda
+  given-names: Keishiro
+  orcid: https://orcid.org/0000-0001-5557-7753
+  affiliation: "Jichi Medical University Saitama Medical Center"
+  website: https://researchmap.jp/keisue888/research_experience?limit=100&lang=en
+title: sueda-ehi/Codes-for-Predicting-72-hour-Fatality-in-Severe-Hyperphosphatemia-: v1.2
+doi: 10.5281/zenodo.15015759
+version: v1.2
+date-released: 2025-03-13
